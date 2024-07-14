@@ -1,5 +1,7 @@
 # Binary Tree Application
 
+![Main Window](images/main_window.png)
+
 This project is a C++ application for managing and visualizing binary trees, created using the Qt framework. It includes various functionalities for binary search trees, such as insertion, deletion, balancing, and traversal operations. This project was developed as a final project at the end of my first year in university in June 2023.
 
 ## Features
